@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\prueba_fredy_camacho.props" />
-</Project>
